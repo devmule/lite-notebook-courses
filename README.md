@@ -5,5 +5,10 @@
 
 Существующие на данный момент курсы:
 
-- Персептроны
+- Персептроны 
+  - [1. введение](https://devmule.github.io/lite-notebook/index.html?reportUrl=https://raw.githubusercontent.com/devmule/lite-notebook-courses/main/perceptron/1_intro.ltn)
+  - [2. прямое распространение](https://devmule.github.io/lite-notebook/index.html?reportUrl=https://raw.githubusercontent.com/devmule/lite-notebook-courses/main/perceptron/2_feedforward.ltn)
+  - [3. обратное распространение ошибки](https://devmule.github.io/lite-notebook/index.html?reportUrl=https://raw.githubusercontent.com/devmule/lite-notebook-courses/main/perceptron/3_back_propagation.ltn)
 - Решающие деревья
+
+
