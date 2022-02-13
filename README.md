@@ -3,7 +3,7 @@
 Здесь собраны мои курсы и статьи, написанные с помощю проекта 
 [lite-notebook](https://github.com/devmule/lite-notebook)!
 
-Существующие на данный момент курсы:
+[оглавление](https://devmule.github.io/lite-notebook/index.html?reportUrl=https://raw.githubusercontent.com/devmule/lite-notebook-courses/main/0_contents.ltn)
 
 - Персептроны 
   - [1. введение](https://devmule.github.io/lite-notebook/index.html?reportUrl=https://raw.githubusercontent.com/devmule/lite-notebook-courses/main/perceptron/1_intro.ltn)
